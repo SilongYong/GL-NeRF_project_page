@@ -1,4 +1,4 @@
-# Nerfies
+# GL-NeRF
 
 This is the repository that contains source code for the [GL-NeRF website](https://silongyong.github.io/).
 
